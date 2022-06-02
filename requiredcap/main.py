@@ -25,6 +25,4 @@ async def greendry(request: Greendryfodder):
     # return {}
 
 
-loop = asyncio.get_event_loop()
-result = loop.run_until_complete(coro)
 #server = uvicorn.run(api)

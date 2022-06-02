@@ -17,3 +17,6 @@ pulp-python==3.2.0
 pulp
 uvloop
 httptools
+mangum
+fastapi
+uvicorn

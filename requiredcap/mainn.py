@@ -23,3 +23,5 @@ async def greendry(request: Greendryfodder):
     return response_json
     # return {}
 #server = uvicorn.run(api)
+#uvicorn main:api
+
